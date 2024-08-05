@@ -1,0 +1,10 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/media/zox/36c0d412-c5a3-4d73-8ece-b4e01cfb90e6/home/ysc/lite_cog/transfer/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/media/zox/36c0d412-c5a3-4d73-8ece-b4e01cfb90e6/home/ysc/lite_cog/transfer/devel/lib/python3/dist-packages",
+        "/opt/ros/noetic/lib/python3/dist-packages"
+    ]
+}

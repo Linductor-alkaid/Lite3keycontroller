@@ -1,0 +1,6 @@
+build/*
+devel/*
+.vscode/*
+src/CMakeLists.txt
+.catkin_workspace
+nx2app_log.txt
